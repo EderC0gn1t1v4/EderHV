@@ -1,6 +1,6 @@
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit aperiam deserunt cumque blanditiis non iste tempora at quia in placeat repellendus quis explicabo itaque nobis amet provident, ipsam sunt. Dolores?
 
-Comandos de git usados:
+Comandos de git usados para subir la primera vez al repositorio:
 
 1.  git init
 R// Initialized empty Git repository in D:/Users/elara/Documents/Capacitaciones/vuejs/prueba/.git/
@@ -23,3 +23,9 @@ Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/EderC0gn1t1v4/EderHV.git
  * [new branch]      main -> main
 Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+-- Comandos usados la segunda vez para subir al repositorio
+
+1.  git add .
+2.  git commit -m "Act. de archivos"
+3.  git push
