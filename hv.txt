@@ -1,1 +1,25 @@
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit aperiam deserunt cumque blanditiis non iste tempora at quia in placeat repellendus quis explicabo itaque nobis amet provident, ipsam sunt. Dolores?
+
+Comandos de git usados:
+
+1.  git init
+R// Initialized empty Git repository in D:/Users/elara/Documents/Capacitaciones/vuejs/prueba/.git/
+2.  git add .
+3.  git commit -m "Subida de proyecto"
+R//
+  2 files changed, 1 insertion(+)
+ create mode 100644 hv.html
+ create mode 100644 hv.txt
+4.  git branch -M main
+5.  git remote add origin https://github.com/EderC0gn1t1v4/EderHV.git
+6.  git push -u origin main
+R//
+ Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 426 bytes | 213.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/EderC0gn1t1v4/EderHV.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
